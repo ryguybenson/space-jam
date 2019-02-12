@@ -1,0 +1,70 @@
+.asdf {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 1000px;
+}
+
+#pictures {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#line1 {
+  height: 100px;
+  width: 200px;
+  display: flex;
+}
+#shuttle {
+  align-self: flex-end;
+}
+#lunar {
+  align-self: flex-end;
+}
+
+#line2 {
+  height: 100px;
+  width: 200px;
+  display: flex;
+}
+
+#line3 {
+  height: 150px;
+  width: 200px;
+  display: flex;
+  align-items: flex-end;
+
+}
+#warner {
+  align-self: flex-start;
+
+}
+#space-jam {
+  align-self: center;
+}
+#lineup {
+  align-self: center;
+}
+#jump-station {
+  align-self: center;
+}
+#map {
+  align-self: flex-end;
+}
+#behind-the-jam {
+  align-self: center;
+}
+#junior {
+  align-self: flex-start;
+}
+#souvenirs {
+  align-self: center;
+}
+#b-ball {
+  padding-left: 30px;
+}
+#jam-central {
+  padding-left: 20px;
+  align-self: flex-start;
+}
